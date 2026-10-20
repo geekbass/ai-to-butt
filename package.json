@@ -1,0 +1,11 @@
+{
+  "name": "ai-to-butt",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "A tiny browser extension that replaces AI-related phrases with butt jokes.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
